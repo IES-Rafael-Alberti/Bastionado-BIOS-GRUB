@@ -5,6 +5,6 @@
 
 Los enlaces a las guias son:
 
-### BIOS:[BIOS]()
+### BIOS: [BIOS]()
 
-### GRUB:[GRUB]()
+### GRUB: [GRUB]()
