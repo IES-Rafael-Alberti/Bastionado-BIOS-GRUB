@@ -5,6 +5,6 @@
 
 Los enlaces a las guias son:
 
-### BIOS: [BIOS](https://naxo1981.github.io/#0)
+### BIOS: [BIOS]()
 
 ### GRUB: [GRUB]()
