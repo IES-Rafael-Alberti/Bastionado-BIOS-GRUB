@@ -5,6 +5,6 @@
 
 Los enlaces a las guias son:
 
-### BIOS: [BIOS]()
+### BIOS: [BIOS](https://ies-rafael-alberti.github.io/Bastionado-BIOS-GRUB/Proyecto1/BIOS/index.html#0)
 
 ### GRUB: [GRUB]()
